@@ -1,4 +1,4 @@
-module web
+module github.com/manuelfirman/web
 
 go 1.21.6
 
