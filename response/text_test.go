@@ -4,7 +4,8 @@ import (
 	"net/http"
 	"net/http/httptest"
 	"testing"
-	"web/response"
+
+	"github.com/manuelfirman/web/response"
 
 	"github.com/stretchr/testify/require"
 )
